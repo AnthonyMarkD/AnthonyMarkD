@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello!
 
+My name is Anthony Dmytryshyn and I am an aspiring Computer Engineer. I love to tackle on new problems with the goal of helping people achieve cool creations which help benefit human kind in some way, whether it affects 1 person to the whole globe.
+
+My passion is in Android Development, and I am currently learning Jetpack Compose. As long as my work helps out anybody else, I am a happy man.
 <!--
 **AnthonyMarkD/AnthonyMarkD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
